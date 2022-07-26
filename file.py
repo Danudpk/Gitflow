@@ -7,3 +7,5 @@ print("20-07-2022")!! "" @@
 
 Working in JIR-5 branch
 print("the branched re working in order")
+
+print("This is not to test the smart commits")
